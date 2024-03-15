@@ -1,6 +1,6 @@
 # Sorting-Algorithms-Practice
 
-Key Features:
+<b>Key Features:<b>
 
 Contains implementations of popular sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and more.
 
@@ -13,7 +13,7 @@ Provides a platform for collaboration and learning, where developers can contrib
 
 
 
-How to Contribute:
+<b>How to Contribute:<b>
 
 Fork the repository and create a new branch for your changes.
 
@@ -24,7 +24,7 @@ Submit a pull request to have your changes reviewed and merged into the main bra
 
 
 
-Let's Sort It Out Together!
+<b>Let's Sort It Out Together!<b>
 
 Whether you're a beginner looking to understand sorting algorithms or an experienced developer seeking to optimize and expand your knowledge, this repository is the perfect place to practice and learn.
 
